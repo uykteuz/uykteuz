@@ -12,8 +12,8 @@ Ola 👋 Meu nome é Matheus
 * 🤝 Estou aberto a colaborar em projetos de alto impacto na vida das pessoas
 * ⚡ Amo sports e o meu preferido é o Apex legends
 
-<a href="https://www.github.com/peguimasid" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/peguimasid?logo=github&style=for-the-badge&color=3382ed&labelColor=171717" /></a>
+<a href="https://www.github.com/uykteuz" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/uykteuz?logo=github&style=for-the-badge&color=3382ed&labelColor=171717" /></a>
 
 ### Skills
 
