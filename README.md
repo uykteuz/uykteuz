@@ -37,7 +37,7 @@ src="https://img.shields.io/github/followers/uykteuz?logo=github&style=for-the-b
 
 
 ### Socials
-<a href="[uykteuz@gmail.com](https://mail.google.com/mail/u/0/#sent?compose=CllgCJlDTWXlTkVvhPHbTdnWjRNRZvnQldpSbJnnZmnlrLnvqnznNThNPdphzhGQqMXbNvhBpLq)" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="https://mail.google.com/mail/u/0/#sent?compose=CllgCJlDTWXlTkVvhPHbTdnWjRNRZvnQldpSbJnnZmnlrLnvqnznNThNPdphzhGQqMXbNvhBpLq" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 
   
 <a href="https://www.instagram.com/otheuz_rafael"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
