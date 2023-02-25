@@ -44,7 +44,8 @@ src="https://img.shields.io/github/followers/uykteuz?logo=github&style=for-the-b
 
 ### Badges
 
-<b>My GitHub Stats</b>
+<b>My GitHub Stats</b>![WhatsApp Image 2023-02-24 at 22 32 15](https://user-images.githubusercontent.com/126296347/221338613-b90ca1a0-de2f-4109-8324-8f6e07f6dd09.jpeg)
+
 
 <a href="http://www.github.com/uykteuz"><img src="https://github-readme-stats-peguimasid.vercel.app/api?username=uykteuz&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=171717&hide_border=true&show_icons=true" alt="uykteuz GitHub Status"/></a>
 
