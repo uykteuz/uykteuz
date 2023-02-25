@@ -12,10 +12,16 @@ Ola 👋 Meu nome é Matheus
 * 🤝 Estou aberto a colaborar em projetos de alto impacto na vida das pessoas
 * ⚡ Amo sports e o meu preferido é o Apex legends
 
+*  🌍 I live in SÃO JOSÉ DOS CAMPOS SP BRAZIL
+* ✉️ You can contact me at [uykteuz@gmail.com](mailto:uykteuz@gamail.com)
+* 🧠 I'm learning advanced Javascript, unit testing and CSS and HTML programming languages
+* 🤝 I am open to collaborating on high impact projects on people's lives
+* ⚡ I love sports and my favorite is Apex legends
+
 <a href="https://www.github.com/uykteuz" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/uykteuz?logo=github&style=for-the-badge&color=3382ed&labelColor=171717" /></a>
 
-### Skills
+### Habilidades/Skills
 
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
 
@@ -23,7 +29,7 @@ src="https://img.shields.io/github/followers/uykteuz?logo=github&style=for-the-b
 
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 
-### Cursando atualmente
+### Cursando atualmente/currently studying
 
 <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black"/>
 
@@ -36,16 +42,13 @@ src="https://img.shields.io/github/followers/uykteuz?logo=github&style=for-the-b
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 
 
-### Socials
+### Social/Socials
 <a href="https://mail.google.com/mail/u/0/#sent?compose=CllgCJlDTWXlTkVvhPHbTdnWjRNRZvnQldpSbJnnZmnlrLnvqnznNThNPdphzhGQqMXbNvhBpLq" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 
   
 <a href="https://www.instagram.com/otheuz_rafael"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 
-### Badges
-
-
-
+### Distintivos/Badges
 
 <a href="http://www.github.com/uykteuz"><img src="https://github-readme-stats-peguimasid.vercel.app/api?username=uykteuz&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=171717&hide_border=true&show_icons=true" alt="uykteuz GitHub Status"/></a>
 
