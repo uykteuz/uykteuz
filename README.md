@@ -37,8 +37,8 @@ src="https://img.shields.io/github/followers/uykteuz?logo=github&style=for-the-b
 
 
 ### Socials
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-<p>uykteuz@gmail.com</p>
+<a href="uykteuz@gmail.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+
   
 <a href="https://www.instagram.com/otheuz_rafael"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 
